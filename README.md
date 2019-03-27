@@ -6,12 +6,6 @@ Dirección General de Docencia
 Universidad de San Carlos de Guatemala
 Fecha de publicación: Octubre 2018
 
-Diseño por: 
-Luz María Ochoa
-	
-Desarrollado por: 
-Jose Pablo Godoy Linares
-
 URL:
 https://virtual.usac.edu.gt/plantilla-moodle-usac/
 
