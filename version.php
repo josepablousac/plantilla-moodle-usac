@@ -1,7 +1,7 @@
 <?php
 defined('MOODLE_INTERNAL') || die;
-$plugin->version   = 2018102204;
-$plugin->requires  = 2018051701;
+$plugin->version   = 2019032601;
+$plugin->requires  = 2018120303;
 $plugin->component = 'theme_usac';
 $plugin->dependencies = array(
     'theme_bootstrapbase'  => 2014050800,

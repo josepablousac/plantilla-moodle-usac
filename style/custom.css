@@ -5202,3 +5202,12 @@ body#page-admin-theme-index .well:first-child {
 .moodle-dialogue-base .yui3-widget{
 	z-index: 2000 !important;
 }
+
+.message-drawer {
+	height: calc(100%) !important;
+	top: 0px !important;
+}
+
+.message-drawer .drawer-top {
+		display: inline !important;
+}

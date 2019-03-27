@@ -30,4 +30,5 @@
       </div>
    </div>
    <!-- End Page Content Section -->
+   <?php echo $OUTPUT->standard_after_main_region_html() ?>
    <?php require_once(dirname(__FILE__).'/footer.php'); ?>
